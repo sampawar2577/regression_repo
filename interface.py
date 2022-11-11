@@ -1,4 +1,4 @@
 def get_add(a,b):
-    add = a+b
-    return print(add)
+    mul = a*b
+    return print(f"the multiplication of {a} and {b} is {mul}")
 get_add(10,20)
